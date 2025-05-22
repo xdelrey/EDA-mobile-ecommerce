@@ -1,7 +1,12 @@
-````markdown
 # Mobile-Driven Purchase Behavior Analysis
 
 A short exploratory data analysis (EDA) project exploring how mobile usage habits relate to online shopping behavior.
+
+---
+
+## 🎯 Objetivo
+
+Entender cómo los hábitos de uso de dispositivos móviles impactan el comportamiento de compra online para informar decisiones de producto, personalización y estrategia de notificaciones.
 
 ---
 
@@ -17,11 +22,6 @@ A short exploratory data analysis (EDA) project exploring how mobile usage habit
    – Link: https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset  
    – Incluye tiempo diario en apps (redes, juegos, compras), notificaciones, número de apps instaladas y datos demográficos (edad, género, país, SO).
 
----
-
-## 🎯 Objetivo
-
-Entender cómo los hábitos de uso de dispositivos móviles impactan el comportamiento de compra online para informar decisiones de producto, personalización y estrategia de notificaciones.
 
 ---
 
