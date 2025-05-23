@@ -12,15 +12,20 @@ Entender cómo los hábitos de uso de dispositivos móviles impactan el comporta
 
 ## 📦 Datasets
 
-1. **Ecommerce User Behavior Data**  
-   – Source: Hugging Face  
-   – Link: https://huggingface.co/datasets/jin-ying-so-cute/ecommerce-user-behavior-data  
-   – Contiene ~35 M registros de interacciones en un e-commerce (vistas, carrito, compra, favoritos), con timestamp y categoría de producto.
+1. **E-commerce Dataset**
+   – Source: Kaggle  
+   – Link: https://www.kaggle.com/datasets/mervemenekse/ecommerce-dataset/data  
+   – Cubre un año de transacciones de clientes en un ecommerce americano, con cada fila representando un pedido.
 
 2. **Mobile Device Usage & User Behavior**  
    – Source: Kaggle  
    – Link: https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset  
    – Incluye tiempo diario en apps (redes, juegos, compras), notificaciones, número de apps instaladas y datos demográficos (edad, género, país, SO).
+
+3. **Ecommerce User Behavior Data**  
+   – Source: Hugging Face  
+   – Link: https://huggingface.co/datasets/jin-ying-so-cute/ecommerce-user-behavior-data  
+   – Contiene ~35 M registros de interacciones en un e-commerce (vistas, carrito, compra, favoritos), con timestamp y categoría de producto.
 
 
 ---
