@@ -32,12 +32,14 @@ Quantify and visualize the impact of mobile usage habits on e‑commerce convers
    * Observaciones generales sobre calidad y sesgos de los datos  
 
 3. **Hypothesis‑Driven Analysis**  
-   | ID | Hipótesis | Métricas y Visualizaciones |
-   |----|-----------|---------------------------|
-   | H1 | **Confianza multicanal** – Los usuarios que compran en móvil lo han hecho antes en desktop | Secuencia de dispositivos, ratios móvil ↔ desktop, heatmap temporal |
-   | H2 | **Conversión por género** – Existen diferencias en la tasa de compra recurrente móvil según género | Gráficos de barras apiladas, test de proporciones |
-   | H3 | **Tiempo en apps de compras ↔ nº compras** | Scatter + regresión lineal, buckets de percentiles |
-   | H4 | **Notificaciones diarias ↔ conversión** | Violín + boxplot, correlación de Spearman |
+   | ID | Hipótesis |
+   |----|-----------|
+   | H1 | **Confianza del comprador** – Los usuarios que compran desde el móvil previamente han comprado desde Desktop |
+   | H2 | **Confianza del comprador** – Hay relación entre plazos de entrega previos y la repetición de compra? |
+   | H3 | **Perfil** - Hay diferencias de género entre los compradores 'mobile' recurrentes? |
+   | H4 | **Oferta** Hay categorías de producto que destaquen para la primera compra móvil? |
+   | H5 | **Compras impulsivas** Tienen más efecto los descuentos en las compras móviles que en las Desktop? |
+   | H6 | **Sincronía horaria de uso y compra** Se solapan las horas de mayor actividad en el móvil con las horas pico de compra online? |
 
 
 ---
